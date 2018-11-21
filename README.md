@@ -1,2 +1,2 @@
-# golala
-request day trip / van transport services targeted to agency & travellers.
+# lokacation
+Day trip / van transport hailing services targeted to agency & travellers.
